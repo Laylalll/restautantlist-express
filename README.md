@@ -1,4 +1,4 @@
-# My favorite restaurant list
+# Restaurant list
 ![image](https://github.com/Laylalll/restaurant_list/blob/main/public/images/screenshot.png)
 
 ## Introduction
