@@ -22,7 +22,6 @@ Save all my favorite restaurants here for checking restaurants' information and 
 - Node.js 14.16.0
 - Express 4.17.3
 - Express-Handlebars 3.0.0
-- Bootstrap 4.6.1
-- jQuery 3.6.0
+- Bootstrap 5.2.3
 - Popper 2.9.1
 - Font-awesome CDN
