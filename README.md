@@ -1,5 +1,5 @@
 # Restaurant list
-![image](https://github.com/Laylalll/restaurant_list/blob/main/public/images/screenshot.png)
+![image](https://github.com/Laylalll/restautantlist-express/blob/main/public/images/screenshot.png)
 
 ## Introduction
 Save all my favorite restaurants here for checking restaurants' information and key in keyword to get target restaurants.
